@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423504901996",
+    "project_id": "myalertapp-32087",
+    "storage_bucket": "myalertapp-32087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423504901996:android:1771dfc1ac3ab00b8de549",
+        "android_client_info": {
+          "package_name": "com.myalertapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGfPXhtU2-s4Ko9sdbXZBVq7gJzEJy0w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
